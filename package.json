@@ -1,0 +1,22 @@
+{
+  "name": "proj2",
+  "version": "1.0.0",
+  "description": "A Node Express api",
+  "main": "index.js",
+  "engines": {
+    "node": "12.18.1",
+    "npm": "6.14.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Anish Saha",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}

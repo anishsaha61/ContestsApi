@@ -1,0 +1,149 @@
+{
+  "Last_Updated": "Sat, 18 Jul 2020 06:48:56 GMT",
+  "Future_Contests": [
+    {
+      "code": "QFUN2020",
+      "name": "QUARANTINE FUN",
+      "link": "https://codechef.com/QFUN2020?itm_campaign=contest_listing",
+      "startDate": "18 Jul 2020 20:30:00",
+      "endDate": "18 Jul 2020   23:30:00"
+    },
+    {
+      "code": "COOK120",
+      "name": "July Cook-Off 2020",
+      "link": "https://codechef.com/COOK120?itm_campaign=contest_listing",
+      "startDate": "19 Jul 2020 21:30:00",
+      "endDate": "20 Jul 2020   00:00:00"
+    },
+    {
+      "code": "COJK2020",
+      "name": "CodeJunk",
+      "link": "https://codechef.com/COJK2020?itm_campaign=contest_listing",
+      "startDate": "20 Jul 2020 20:00:00",
+      "endDate": "20 Jul 2020   22:00:00"
+    },
+    {
+      "code": "LTIME86",
+      "name": "July Lunchtime 2020",
+      "link": "https://codechef.com/LTIME86?itm_campaign=contest_listing",
+      "startDate": "25 Jul 2020 19:30:00",
+      "endDate": "25 Jul 2020   22:30:00"
+    },
+    {
+      "code": "IEM82020",
+      "name": "IEM Coding Olympiad (IEMCO)",
+      "link": "https://codechef.com/IEM82020?itm_campaign=contest_listing",
+      "startDate": "31 Jul 2020 20:00:00",
+      "endDate": "31 Jul 2020   23:00:00"
+    },
+    {
+      "code": "AUG20",
+      "name": "August Challenge 2020",
+      "link": "https://codechef.com/AUG20?itm_campaign=contest_listing",
+      "startDate": "07 Aug 2020 15:00:00",
+      "endDate": "17 Aug 2020   15:00:00"
+    }
+  ],
+  "Current_Contests": [
+    {
+      "code": "LEARNDSA",
+      "name": "DSA Learning Series",
+      "link": "https://codechef.com/LEARNDSA?itm_campaign=contest_listing",
+      "startDate": "30 Mar 2020 00:00:00",
+      "endDate": "30 Mar 2021   00:00:00"
+    },
+    {
+      "code": "IARCSJUD",
+      "name": "IARCS OPC Judge Problems",
+      "link": "https://codechef.com/IARCSJUD?itm_campaign=contest_listing",
+      "startDate": "09 Oct 2019 00:00:00",
+      "endDate": "08 Oct 2021   03:00:00"
+    },
+    {
+      "code": "INOIPRAC",
+      "name": "Past INOI Problems",
+      "link": "https://codechef.com/INOIPRAC?itm_campaign=contest_listing",
+      "startDate": "05 Jan 2019 00:00:00",
+      "endDate": "27 Jun 2024   00:00:00"
+    },
+    {
+      "code": "ZCOPRAC",
+      "name": "Past ZCO Problems",
+      "link": "https://codechef.com/ZCOPRAC?itm_campaign=contest_listing",
+      "startDate": "05 Nov 2018 00:00:00",
+      "endDate": "27 Apr 2024   00:00:00"
+    }
+  ],
+  "Past_Contests": [
+    {
+      "code": "MCOD2020",
+      "name": "M-Code",
+      "link": "https://codechef.com/MCOD2020?itm_campaign=contest_listing",
+      "startDate": "17 Jul 2020 18:00:00",
+      "endDate": "17 Jul 2020   19:40:00"
+    },
+    {
+      "code": "COLE2020",
+      "name": "Coders' Legacy (Rated for all)",
+      "link": "https://codechef.com/COLE2020?itm_campaign=contest_listing",
+      "startDate": "15 Jul 2020 21:00:00",
+      "endDate": "16 Jul 2020   00:15:00"
+    },
+    {
+      "code": "JULY20",
+      "name": "July Challenge 2020",
+      "link": "https://codechef.com/JULY20?itm_campaign=contest_listing",
+      "startDate": "03 Jul 2020 15:00:00",
+      "endDate": "13 Jul 2020   15:00:00"
+    },
+    {
+      "code": "BGS12020",
+      "name": "Beginners Special 1.0",
+      "link": "https://codechef.com/BGS12020?itm_campaign=contest_listing",
+      "startDate": "06 Jul 2020 16:00:00",
+      "endDate": "06 Jul 2020   19:00:00"
+    },
+    {
+      "code": "PROC2020",
+      "name": "Project Code 2.0",
+      "link": "https://codechef.com/PROC2020?itm_campaign=contest_listing",
+      "startDate": "01 Jul 2020 15:00:00",
+      "endDate": "02 Jul 2020   15:00:00"
+    },
+    {
+      "code": "ENJU2020",
+      "name": "Encoding June'20",
+      "link": "https://codechef.com/ENJU2020?itm_campaign=contest_listing",
+      "startDate": "28 Jun 2020 17:00:00",
+      "endDate": "28 Jun 2020   20:00:00"
+    },
+    {
+      "code": "LTIME85",
+      "name": "June Lunchtime 2020",
+      "link": "https://codechef.com/LTIME85?itm_campaign=contest_listing",
+      "startDate": "27 Jun 2020 19:30:00",
+      "endDate": "27 Jun 2020   22:30:00"
+    },
+    {
+      "code": "COH12020",
+      "name": "Code Heist #1",
+      "link": "https://codechef.com/COH12020?itm_campaign=contest_listing",
+      "startDate": "27 Jun 2020 17:00:00",
+      "endDate": "27 Jun 2020   19:00:00"
+    },
+    {
+      "code": "BIT32020",
+      "name": "Biteration #3",
+      "link": "https://codechef.com/BIT32020?itm_campaign=contest_listing",
+      "startDate": "26 Jun 2020 21:00:00",
+      "endDate": "26 Jun 2020   23:00:00"
+    },
+    {
+      "code": "COCA2020",
+      "name": "CodeChamp",
+      "link": "https://codechef.com/COCA2020?itm_campaign=contest_listing",
+      "startDate": "24 Jun 2020 21:00:00",
+      "endDate": "24 Jun 2020   23:30:00"
+    }
+  ]
+}

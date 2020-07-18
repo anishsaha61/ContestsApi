@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css"
+    />
+    <title>CodeChef Contests API</title>
+    <style>
+      body {
+        margin: 0;
+      }
+      footer{
+        text-align: center;
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>CodeChef Contests API</h2>
+    <p>
+      CodeChef Contests API provides details about all upcoming, ongoing and
+      past CodeChef contests.
+    </p>
+    <h5>API Details:</h5>
+    <span class="tableContainer">
+      <table class="ui celled table">
+        <thead>
+          <tr>
+            <th>Method</th>
+            <th>Route</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-label="Name">GET</td>
+            <td data-label="Age">/codechef</td>
+            <td data-label="Job">
+              A JSON file containing all details about upcoming, ongoing and
+              past codechef contests.
+            </td>
+          </tr>
+          <tr>
+            <td data-label="Name">GET</td>
+            <td data-label="Age">/codechef/future</td>
+            <td data-label="Job">
+              A JSON file containing all details about upcoming codechef
+              contests.
+            </td>
+          </tr>
+          <tr>
+            <td data-label="Name">GET</td>
+            <td data-label="Age">/codechef/live</td>
+            <td data-label="Job">
+              A JSON file containing all details about ongoing codechef
+              contests.
+            </td>
+          </tr>
+          <tr>
+            <td data-label="Name">GET</td>
+            <td data-label="Age">/codechef/past</td>
+            <td data-label="Job">
+              A JSON file containing all details about past codechef contests.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </span>
+    <footer>&copy; Anish Saha 2020</footer>
+  </body>
+</html>
